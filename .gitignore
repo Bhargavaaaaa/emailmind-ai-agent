@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Secrets
+.env
+credentials.json
+token.json
+
+# Database
+emailmind.db
+
+# Logs
+daily_logs/
+
+# Streamlit cache
+.streamlit/cache/

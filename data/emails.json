@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "sender": "ABC Suppliers Pvt Ltd",
+    "subject": "Payment Status for INV-1001",
+    "body": "Could you please provide an update on the settlement of invoice INV-1001? Payment is overdue by 10 days.",
+    "received_at": "2026-08-21 09:05"
+  },
+  {
+    "id": 2,
+    "sender": "John Doe",
+    "subject": "Unable to Login to Employee Portal",
+    "body": "I am unable to login after resetting my password yesterday.",
+    "received_at": "2026-08-21 09:18"
+  },
+  {
+    "id": 3,
+    "sender": "XYZ Logistics",
+    "subject": "Tax Invoice for Delivery Charges",
+    "body": "Attached is the tax invoice for logistics services provided this month. Invoice amount is Rs. 12,300.",
+    "received_at": "2026-08-21 09:30"
+  },
+  {
+    "id": 4,
+    "sender": "Lottery Promotion",
+    "subject": "Congratulations! You Won Rs.10 Lakhs",
+    "body": "Click the link below immediately to claim your prize money.",
+    "received_at": "2026-08-21 09:42"
+  },
+  {
+    "id": 5,
+    "sender": "Green Energy Solutions",
+    "subject": "Quantity Difference in Invoice",
+    "body": "Invoice mentions 25 units but only 20 units were delivered.",
+    "received_at": "2026-08-21 10:00"
+  },
+  {
+    "id": 6,
+    "sender": "Prime Electronics",
+    "subject": "Remittance Advice Required",
+    "body": "Kindly share the remittance advice for invoice INV-7788 processed this month.",
+    "received_at": "2026-08-21 10:12"
+  },
+  {
+    "id": 7,
+    "sender": "ABC Suppliers Pvt Ltd",
+    "subject": "Invoice INV-1001 for August Shipment",
+    "body": "Please find attached invoice INV-1001 amounting to Rs. 48,500 for the August shipment. Kindly process it as per payment terms.",
+    "received_at": "2026-08-21 10:25"
+  },
+  {
+    "id": 8,
+    "sender": "Priya Sharma",
+    "subject": "Account Locked",
+    "body": "My company account has been locked after multiple login attempts.",
+    "received_at": "2026-08-21 10:40"
+  },
+  {
+    "id": 9,
+    "sender": "City Hardware",
+    "subject": "Incorrect Tax Calculation",
+    "body": "The GST amount applied in the invoice appears to be incorrect.",
+    "received_at": "2026-08-21 11:00"
+  },
+  {
+    "id": 10,
+    "sender": "Sunrise Exports",
+    "subject": "Outstanding Payment Reminder",
+    "body": "This is a reminder regarding the outstanding amount pending against our previous shipment.",
+    "received_at": "2026-08-21 11:20"
+  },
+  {
+    "id": 11,
+    "sender": "Mega Deals Online",
+    "subject": "Free Amazon Gift Voucher",
+    "body": "Limited time offer. Claim your free Amazon voucher today.",
+    "received_at": "2026-08-21 11:35"
+  },
+  {
+    "id": 12,
+    "sender": "Rahul Kumar",
+    "subject": "Access Issue in Dashboard",
+    "body": "I cannot access the finance dashboard even after successful authentication.",
+    "received_at": "2026-08-21 11:50"
+  },
+  {
+    "id": 13,
+    "sender": "TechParts India",
+    "subject": "Invoice Submission - INV-2241",
+    "body": "We are submitting invoice INV-2241 worth Rs. 78,900 for recently delivered hardware.",
+    "received_at": "2026-08-21 12:10"
+  },
+  {
+    "id": 14,
+    "sender": "Global Tech Services",
+    "subject": "Expected Payment Timeline",
+    "body": "Please let us know when we should expect payment for invoice INV-5420.",
+    "received_at": "2026-08-21 12:30"
+  },
+  {
+    "id": 15,
+    "sender": "Unknown Sender",
+    "subject": "Urgent Reward Claim",
+    "body": "Your account has been selected for a reward. Verify immediately using this link.",
+    "received_at": "2026-08-21 12:45"
+  },
+  {
+    "id": 16,
+    "sender": "ABC Suppliers Pvt Ltd",
+    "subject": "Invoice Amount Mismatch",
+    "body": "The billed amount in invoice INV-1202 does not match the agreed purchase order amount.",
+    "received_at": "2026-08-21 13:00"
+  },
+  {
+    "id": 17,
+    "sender": "Employee IT Helpdesk",
+    "subject": "Password Reset Failed",
+    "body": "Password reset link is showing an expired session error.",
+    "received_at": "2026-08-21 13:18"
+  },
+  {
+    "id": 18,
+    "sender": "Green Energy Solutions",
+    "subject": "Billing Document for PO 2205",
+    "body": "Please process the enclosed billing document against Purchase Order 2205.",
+    "received_at": "2026-08-21 13:40"
+  },
+  {
+    "id": 19,
+    "sender": "XYZ Logistics",
+    "subject": "Price Difference in Delivery Invoice",
+    "body": "The delivery invoice contains a price different from our signed quotation.",
+    "received_at": "2026-08-21 14:00"
+  },
+  {
+    "id": 20,
+    "sender": "ABC Suppliers Pvt Ltd",
+    "subject": "Payment Follow-up for Incorrect Invoice",
+    "body": "We have not received payment for invoice INV-9005 and we also believe the billed amount is incorrect according to our purchase order.",
+    "received_at": "2026-08-21 14:20"
+  }
+]
